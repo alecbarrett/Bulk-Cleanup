@@ -1,6 +1,6 @@
 # Bulk-Cleanup
 
-An in progress tool for cleaning FACS generated bulk RNA-seq counts profiles
+An in progress tool for cleaning FACS generated bulk RNA-seq counts profiles. The current iteration is specific to my dataset, I am currently working on an R library implementation.
 
 ## Inputs
 |Data|Rows|Columns|
